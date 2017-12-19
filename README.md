@@ -1,6 +1,6 @@
 # cmpe281-starks-hackathon
 
-Bitly URL Shortener
+## Bitly URL Shortener
 
 * **Web Portal**: a Heroku Based Web Application from which requests for URLs can be submitted and Trending data can be viewed.
 * **Control Panel**: A web service to create new shortlinks.
@@ -18,6 +18,18 @@ Note: All the backend servers were deployed on AWS and servers are stopped for n
 ## Application Architecture
 
 <img width="608" alt="screen shot 2017-12-18 at 8 46 24 pm" src="https://user-images.githubusercontent.com/20282380/34141208-9179beac-e434-11e7-8b08-eee74396b93e.png">
+
+## Application Functionality 
+
+Video Link : https://www.youtube.com/watch?v=sg0EqQGojg0
+
+## Team
+
+* Anuj
+* Isha
+* Purvesh
+* Ritika
+* Shantagouda
 
 
 
